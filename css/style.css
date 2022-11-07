@@ -80,24 +80,14 @@ padding:20px 25px;
 .contact .contact-fc .boxA
 {
 
-	width:200px;
+	width:20%;
 	height:190px;
 	margin-top:450px;
 	background-color:white;
 }
-.contact .contact-fc .boxB
-{
-	
-	width:3px;
-	height:40px;
-	text-align:center;
-	margin-bottom:100px;
-	background-color:black;
-	padding-left:200px;
-}
 .contact .contact-fc .boxC
 {
-	width:820px;
+	width:60%;
 height:700px;
 margin-top:30px;
 background-color:silver;
@@ -127,7 +117,7 @@ background-color:silver;
 {
 
 padding-right:30px;
-	width:550px;
+	width:30%;
 	height:350px;
 	margin-top:30px;
 	background-color:white;
@@ -135,7 +125,7 @@ padding-right:30px;
 .about1 .about1-fc .boxc
 {
 
-	width:150px;
+	width:10%;
 	height:40px;
 	margin-top:160px;
 	background-color:white;
@@ -144,8 +134,8 @@ padding-right:30px;
 }
 .about1 .about1-fc .boxb
 {
-padding-right:30px;
-	width:550px;
+padding-right:35px;
+	width:50%;
 	height:350px;
 	margin-top:80px;
 	background-color:white;	
@@ -154,12 +144,12 @@ padding-right:30px;
 .about1 .about1-fc .boxd
 {
 
-margin-top:auto;
-margin-bottom:auto;
-width:600px;
-	height:560px;
-	padding-right:70px; 
+width:35%;
+	height:350px;
+	margin-top:120px;
 	background-color:white;
+	padding-left:40px; 
+	margin-left:50px;
 }
 .Bootstrap
 {
@@ -214,7 +204,7 @@ background-color:gray;
 .latest
 {
 	background-color:lightgreen;
-	height:1350px;
+	height:1200px;
 }
 .wrapper
 {
@@ -234,16 +224,16 @@ background-color:gray;
 {
 
 padding-right:30px;
-	width:550px;
-	height:450px;
+	width:45%;
+	height:300px;
 	margin-top:30px;
 	background-color:white;
 }
 .latest .latest-fc .boxc
 {
 
-	width:500px;
-	height:580px;
+	width:45%;
+.	height:580px;
 	margin-top:160px;
 	background-color:white;
 	padding-right:30px; 
@@ -252,8 +242,8 @@ padding-right:30px;
 .latest .latest-fc .boxb
 {
 padding-right:30px;
-	width:500px;
-	height:560px;
+	width:46%;
+	height:450px;
 	margin-top:150px;
 	background-color:white;	
 }
@@ -261,8 +251,8 @@ padding-right:30px;
 .latest .latest-fc .boxd
 {
 padding-right:30px;
-	width:550px;
-	height:490px;
+	width:45%;
+	height:500px;
 	margin-top:215px;
 	background-color:white;
 }
@@ -303,7 +293,7 @@ padding-right:30px;
 .work
 {
 	background-color:white;
-	height:800px;
+	height:750px;
 }
 .wrapper
 {
@@ -322,16 +312,16 @@ padding-right:30px;
 .work .work-fc .boxA
 {
 
-padding-left:30px 45px;
-	width:380px;
-	height:280px;
-	margin-top:100px;
+
+	width:40%;
+	height:250px;
+	margin-top:50px;
 	background-color:lightgreen;
 }
 .work .work-fc .boxb
 {
 
-	width:380px;
+	width:40%;
 	height:280px;
 	background-color:lightgreen;
 	padding-right:35px; 
@@ -389,57 +379,55 @@ height:1062px;
 display:flex;
 flex-wrap:wrap;
 flex-direction:row;
+justify-content:center;
 
 }
 .quotes .quotes-fc .head
 {
-width:100%;
+width:80%;
 text-align:center;
-margin-top:250px;
-
+margin-top:200px;
 }
 .quotes .quotes-fc .boxa
 {
 background-color:lightblue;
-height:400px;
-width:400px;
+height:350px;
+width:30%;
 
 }
 .quotes .quotes-fc .boxb
 {
 background-color:steelblue;
-height:400px;
-width:400px;
+height:350px;
+width:30%;
 }
 .quotes .quotes-fc .boxc
 {
 background-color:pink;
-height:400px;
-width:400px;
+height:350px;
+width:30%;
 
 }
 .quotes .quotes-fc .boxd
 {
 background-color:lightskyblue;
-height:400px;
-width:400px;
-margin-bottom:60px;
+height:350px;
+width:30%;
+
 
 }
 .quotes .quotes-fc .boxe
 {
 background-color:white;
-height:400px;
-width:400px;
-margin-bottom:60px;
+height:350px;
+width:30%;
+
 
 }.quotes .quotes-fc .boxf
 {
 background-color:black;
-height:400px;
-width:400px;
-margin-bottom:60px;
-
+height:350px;
+width:30%;
 }
 .blog
 {
